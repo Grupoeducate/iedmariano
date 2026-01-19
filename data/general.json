@@ -1,0 +1,55 @@
+{
+  "informacion_reporte": {
+    "institucion": "IED Hogar Mariano -BQA",
+    "seccion": "2. Resultados generales",
+    "titulo_tabla": "2.1 Promedio del puntaje global y desviación estándar"
+  },
+  "datos": [
+    {
+      "nivel_agregacion": "Establecimiento educativo (EE)",
+      "metricas": {
+        "promedio_puntaje_global": {
+          "2023-4": 282,
+          "2024-3": 276,
+          "2025-3": 269
+        },
+        "desviacion_estandar": {
+          "2023-4": 39,
+          "2024-3": 41,
+          "2025-3": 42
+        }
+      }
+    },
+    {
+      "nivel_agregacion": "Colombia",
+      "metricas": {
+        "promedio_puntaje_global": {
+          "2023-4": 257,
+          "2024-3": 260,
+          "2025-3": 261
+        },
+        "desviacion_estandar": {
+          "2023-4": 51,
+          "2024-3": 52,
+          "2025-3": 53
+        }
+      }
+    },
+    {
+      "nivel_agregacion": "ETC",
+      "descripcion": "Entidad Territorial Certificada",
+      "metricas": {
+        "promedio_puntaje_global": {
+          "2023-4": 264,
+          "2024-3": 267,
+          "2025-3": 267
+        },
+        "desviacion_estandar": {
+          "2023-4": 52,
+          "2024-3": 53,
+          "2025-3": 55
+        }
+      }
+    }
+  ]
+}

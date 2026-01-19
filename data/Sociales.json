@@ -1,0 +1,119 @@
+{
+  "informacion_reporte": {
+    "institucion": "IED Hogar Mariano -BQA",
+    "area": "Sociales y Ciudadanas",
+    "seccion": "5. Resultados en la prueba de Sociales y ciudadanas"
+  },
+  "resultados_generales": {
+    "promedio_y_desviacion": {
+      "titulo": "Promedio y desviación estándar en Sociales y ciudadanas",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "metricas": {
+            "promedio": { "2023-4": 54, "2024-3": 53, "2025-3": 50 },
+            "desviacion": { "2023-4": 11, "2024-3": 10, "2025-3": 10 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "metricas": {
+            "promedio": { "2023-4": 49, "2024-3": 49, "2025-3": 49 },
+            "desviacion": { "2023-4": 12, "2024-3": 12, "2025-3": 12 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "metricas": {
+            "promedio": { "2023-4": 50, "2024-3": 50, "2025-3": 50 },
+            "desviacion": { "2023-4": 12, "2024-3": 13, "2025-3": 13 }
+          }
+        }
+      ]
+    },
+    "niveles_desempeno": {
+      "titulo": "5.2 Porcentaje de estudiantes por niveles de desempeño en Sociales y ciudadanas",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "niveles": {
+            "nivel_1": { "2023-4": 12, "2024-3": 12, "2025-3": 20 },
+            "nivel_2": { "2023-4": 47, "2024-3": 50, "2025-3": 49 },
+            "nivel_3": { "2023-4": 36, "2024-3": 32, "2025-3": 27 },
+            "nivel_4": { "2023-4": 6, "2024-3": 6, "2025-3": 4 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "niveles": {
+            "nivel_1": { "2023-4": 27, "2024-3": 27, "2025-3": 30 },
+            "nivel_2": { "2023-4": 42, "2024-3": 41, "2025-3": 39 },
+            "nivel_3": { "2023-4": 27, "2024-3": 28, "2025-3": 27 },
+            "nivel_4": { "2023-4": 4, "2024-3": 4, "2025-3": 4 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "niveles": {
+            "nivel_1": { "2023-4": 26, "2024-3": 26, "2025-3": 28 },
+            "nivel_2": { "2023-4": 39, "2024-3": 39, "2025-3": 37 },
+            "nivel_3": { "2023-4": 30, "2024-3": 30, "2025-3": 29 },
+            "nivel_4": { "2023-4": 5, "2024-3": 6, "2025-3": 6 }
+          }
+        }
+      ]
+    }
+  },
+  "evidencias_aprendizaje": [
+    {
+      "id_evidencia": 1,
+      "descripcion": "Contextualiza y evalúa usos de fuentes y argumentos.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 50, "2024-3": 44, "2025-3": 47 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 57, "2024-3": 51, "2025-3": 52 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 55, "2024-3": 50, "2025-3": 50 }
+        }
+      ]
+    },
+    {
+      "id_evidencia": 2,
+      "descripcion": "Comprende dimensiones espaciales y temporales de eventos, problemáticas y prácticas sociales.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 51, "2024-3": 34, "2025-3": 38 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 56, "2024-3": 50, "2025-3": 42 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 55, "2024-3": 46, "2025-3": 41 }
+        }
+      ]
+    },
+    {
+      "id_evidencia": 3,
+      "descripcion": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre estas.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 27, "2024-3": 47, "2025-3": 39 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 39, "2024-3": 51, "2025-3": 42 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 37, "2024-3": 49, "2025-3": 39 }
+        }

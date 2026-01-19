@@ -1,0 +1,58 @@
+{
+  "informacion_reporte": {
+    "institucion": "IED Hogar Mariano -BQA",
+    "area": "Matemáticas",
+    "seccion": "4. Resultados en la prueba de Matemáticas"
+  },
+  "resultados_generales": {
+    "promedio_y_desviacion": {
+      "titulo": "4.1 Promedio y desviación estándar en Matemáticas",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "metricas": {
+            "promedio": { "2023-4": 57, "2024-3": 54, "2025-3": 54 },
+            "desviacion": { "2023-4": 9, "2024-3": 11, "2025-3": 11 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "metricas": {
+            "promedio": { "2023-4": 52, "2024-3": 53, "2025-3": 53 },
+            "desviacion": { "2023-4": 12, "2024-3": 13, "2025-3": 13 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "metricas": {
+            "promedio": { "2023-4": 53, "2024-3": 54, "2025-3": 54 },
+            "desviacion": { "2023-4": 12, "2024-3": 13, "2025-3": 13 }
+          }
+        }
+      ]
+    },
+    "niveles_desempeno": {
+      "titulo": "4.2 Porcentaje de estudiantes por niveles de desempeño en Matemáticas",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "niveles": {
+            "nivel_1": { "2023-4": 1, "2024-3": 4, "2025-3": 3 },
+            "nivel_2": { "2023-4": 23, "2024-3": 34, "2025-3": 37 },
+            "nivel_3": { "2023-4": 71, "2024-3": 57, "2025-3": 53 },
+            "nivel_4": { "2023-4": 5, "2024-3": 4, "2025-3": 7 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "niveles": {
+            "nivel_1": { "2023-4": 9, "2024-3": 9, "2025-3": 9 },
+            "nivel_2": { "2023-4": 35, "2024-3": 33, "2025-3": 31 },
+            "nivel_3": { "2023-4": 49, "2024-3": 50, "2025-3": 50 },
+            "nivel_4": { "2023-4": 7, "2024-3": 8, "2025-3": 9 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "niveles": {
+            "nivel_1": { "2023-4": 8, "2024-3": 8, "2025-3": 9 },

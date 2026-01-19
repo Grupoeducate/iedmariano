@@ -1,0 +1,317 @@
+{
+  "informacion_reporte": {
+    "institucion": "IED Hogar Mariano -BQA",
+    "area": "Ciencias Naturales",
+    "seccion": "6. Resultados en la prueba de Ciencias naturales"
+  },
+  "resultados_generales": {
+    "promedio_y_desviacion": {
+      "titulo": "6.1 Promedio y desviación estándar en Ciencias naturales",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "metricas": {
+            "promedio": { "2023-4": 55, "2024-3": 55, "2025-3": 53 },
+            "desviacion": { "2023-4": 9, "2024-3": 9, "2025-3": 9 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "metricas": {
+            "promedio": { "2023-4": 50, "2024-3": 51, "2025-3": 52 },
+            "desviacion": { "2023-4": 10, "2024-3": 11, "2025-3": 11 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "metricas": {
+            "promedio": { "2023-4": 51, "2024-3": 52, "2025-3": 52 },
+            "desviacion": { "2023-4": 11, "2024-3": 11, "2025-3": 11 }
+          }
+        },
+        {
+          "nivel_agregacion": "Oficiales urbanos ETC",
+          "metricas": {
+            "promedio": { "2023-4": 50, "2024-3": 51, "2025-3": 51 },
+            "desviacion": { "2023-4": 10, "2024-3": 11, "2025-3": 11 }
+          }
+        },
+        {
+          "nivel_agregacion": "Privados ETC",
+          "metricas": {
+            "promedio": { "2023-4": 55, "2024-3": 56, "2025-3": 56 },
+            "desviacion": { "2023-4": 12, "2024-3": 12, "2025-3": 12 }
+          }
+        }
+      ]
+    },
+    "niveles_desempeno": {
+      "titulo": "6.2 Porcentaje de estudiantes por niveles de desempeño en Ciencias naturales",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "niveles": {
+            "nivel_1": { "2023-4": 6, "2024-3": 5, "2025-3": 10 },
+            "nivel_2": { "2023-4": 44, "2024-3": 49, "2025-3": 51 },
+            "nivel_3": { "2023-4": 48, "2024-3": 43, "2025-3": 38 },
+            "nivel_4": { "2023-4": 2, "2024-3": 3, "2025-3": 1 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "niveles": {
+            "nivel_1": { "2023-4": 19, "2024-3": 18, "2025-3": 18 },
+            "nivel_2": { "2023-4": 49, "2024-3": 47, "2025-3": 46 },
+            "nivel_3": { "2023-4": 29, "2024-3": 31, "2025-3": 32 },
+            "nivel_4": { "2023-4": 3, "2024-3": 4, "2025-3": 4 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "niveles": {
+            "nivel_1": { "2023-4": 18, "2024-3": 16, "2025-3": 16 },
+            "nivel_2": { "2023-4": 47, "2024-3": 45, "2025-3": 44 },
+            "nivel_3": { "2023-4": 32, "2024-3": 34, "2025-3": 34 },
+            "nivel_4": { "2023-4": 4, "2024-3": 5, "2025-3": 6 }
+          }
+        }
+      ]
+    }
+  },
+  "evidencias_aprendizaje": [
+    {
+      "id_evidencia": 1,
+      "descripcion": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico. - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 31, "2024-3": 28, "2025-3": 48 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 45, "2024-3": 42, "2025-3": 49 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 43, "2024-3": 39, "2025-3": 48 } }
+      ]
+    },
+    {
+      "id_evidencia": 2,
+      "descripcion": "Observar y relacionar patrones en los datos para evaluar las predicciones. - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 51, "2024-3": 50, "2025-3": 32 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 58, "2024-3": 63, "2025-3": 31 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 57, "2024-3": 59, "2025-3": 29 } }
+      ]
+    },
+    {
+      "id_evidencia": 3,
+      "descripcion": "Asociar fenómenos naturales con conceptos propios del conocimiento científico. - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 60, "2024-3": 41, "2025-3": 60 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 63, "2024-3": 46, "2025-3": 58 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 62, "2024-3": 43, "2025-3": 55 } }
+      ]
+    },
+    {
+      "id_evidencia": 4,
+      "descripcion": "Derivar conclusiones para algunos fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y de la de otros. - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 45, "2024-3": 40, "2025-3": 48 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 51, "2024-3": 46, "2025-3": 48 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 50, "2024-3": 45, "2025-3": 47 } }
+      ]
+    },
+    {
+      "id_evidencia": 5,
+      "descripcion": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico. - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 34, "2024-3": 44, "2025-3": 50 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 47, "2024-3": 51, "2025-3": 55 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 44, "2024-3": 50, "2025-3": 54 } }
+      ]
+    },
+    {
+      "id_evidencia": 6,
+      "descripcion": "Derivar conclusiones para algunos fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y de la de otros. - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 21, "2024-3": 30, "2025-3": 39 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 32, "2024-3": 46, "2025-3": 40 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 31, "2024-3": 42, "2025-3": 40 } }
+      ]
+    },
+    {
+      "id_evidencia": 7,
+      "descripcion": "Asociar fenómenos naturales con conceptos propios del conocimiento científico. - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 49, "2024-3": 44, "2025-3": 55 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 57, "2024-3": 48, "2025-3": 57 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 54, "2024-3": 46, "2025-3": 55 } }
+      ]
+    },
+    {
+      "id_evidencia": 8,
+      "descripcion": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 42, "2024-3": 40, "2025-3": 32 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 49, "2024-3": 49, "2025-3": 38 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 47, "2024-3": 47, "2025-3": 36 } }
+      ]
+    },
+    {
+      "id_evidencia": 9,
+      "descripcion": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico. - CTS",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 38, "2024-3": 29, "2025-3": 29 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 41, "2024-3": 36, "2025-3": 35 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 41, "2024-3": 34, "2025-3": 34 } }
+      ]
+    },
+    {
+      "id_evidencia": 10,
+      "descripcion": "Modelar fenómenos de la naturaleza basado en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas. - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 39, "2024-3": 43, "2025-3": 46 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 52, "2024-3": 48, "2025-3": 51 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 49, "2024-3": 46, "2025-3": 49 } }
+      ]
+    },
+    {
+      "id_evidencia": 11,
+      "descripcion": "Explicar cómo ocurren algunos fenómenos de la naturaleza basado en observaciones, en patrones y en conceptos propios del conocimiento científico. - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 48, "2024-3": 50, "2025-3": 39 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 52, "2024-3": 56, "2025-3": 40 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 51, "2024-3": 55, "2025-3": 39 } }
+      ]
+    },
+    {
+      "id_evidencia": 12,
+      "descripcion": "Comprender que a partir de la investigación científica se construyen explicaciones sobre el mundo natural. - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 30, "2024-3": 44, "2025-3": 32 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 36, "2024-3": 50, "2025-3": 43 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 34, "2024-3": 49, "2025-3": 40 } }
+      ]
+    },
+    {
+      "id_evidencia": 13,
+      "descripcion": "Observar y relacionar patrones en los datos para evaluar las predicciones. - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 40, "2024-3": 62, "2025-3": 30 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 42, "2024-3": 53, "2025-3": 42 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 41, "2024-3": 50, "2025-3": 40 } }
+      ]
+    },
+    {
+      "id_evidencia": 14,
+      "descripcion": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 38, "2024-3": 39, "2025-3": 38 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 53, "2024-3": 44, "2025-3": 41 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 51, "2024-3": 42, "2025-3": 40 } }
+      ]
+    },
+    {
+      "id_evidencia": 15,
+      "descripcion": "Modelar fenómenos de la naturaleza basado en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas. - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 54, "2024-3": 41, "2025-3": 59 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 59, "2024-3": 48, "2025-3": 56 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 57, "2024-3": 45, "2025-3": 55 } }
+      ]
+    },
+    {
+      "id_evidencia": 16,
+      "descripcion": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico. - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 60, "2024-3": 50, "2025-3": 54 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 63, "2024-3": 52, "2025-3": 49 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 61, "2024-3": 49, "2025-3": 47 } }
+      ]
+    },
+    {
+      "id_evidencia": 17,
+      "descripcion": "Analizar el potencial del uso de recursos naturales o artefactos y sus efectos sobre el entorno y la salud , así como las posibilidades de desarrollo para las comunidades. - CTS",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 24, "2024-3": 41, "2025-3": 30 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 38, "2024-3": 46, "2025-3": 35 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 36, "2024-3": 46, "2025-3": 34 } }
+      ]
+    },
+    {
+      "id_evidencia": 18,
+      "descripcion": "Modelar fenómenos de la naturaleza basado en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas. - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 44, "2024-3": 41, "2025-3": 46 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 52, "2024-3": 46, "2025-3": 42 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 51, "2024-3": 44, "2025-3": 41 } }
+      ]
+    },
+    {
+      "id_evidencia": 19,
+      "descripcion": "Explicar cómo ocurren algunos fenómenos de la naturaleza basado en observaciones, en patrones y en conceptos propios del conocimiento científico. - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 59, "2024-3": 32, "2025-3": 51 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 64, "2024-3": 43, "2025-3": 54 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 62, "2024-3": 40, "2025-3": 52 } }
+      ]
+    },
+    {
+      "id_evidencia": 20,
+      "descripcion": "Observar y relacionar patrones en los datos para evaluar las predicciones. - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 30, "2024-3": 23, "2025-3": 48 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 36, "2024-3": 29, "2025-3": 48 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 34, "2024-3": 27, "2025-3": 46 } }
+      ]
+    },
+    {
+      "id_evidencia": 21,
+      "descripcion": "Derivar conclusiones para algunos fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y de la de otros. - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 33, "2024-3": 54, "2025-3": 36 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 43, "2024-3": 57, "2025-3": 43 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 40, "2024-3": 55, "2025-3": 41 } }
+      ]
+    },
+    {
+      "id_evidencia": 22,
+      "descripcion": "Asociar fenómenos naturales con conceptos propios del conocimiento científico. - Procesos vivos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 35, "2024-3": 30, "2025-3": 49 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 44, "2024-3": 43, "2025-3": 54 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 43, "2024-3": 41, "2025-3": 53 } }
+      ]
+    },
+    {
+      "id_evidencia": 23,
+      "descripcion": "Comprender que a partir de la investigación científica se construyen explicaciones sobre el mundo natural. - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 24, "2024-3": 34, "2025-3": 29 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 37, "2024-3": 47, "2025-3": 30 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 35, "2024-3": 45, "2025-3": 37 } }
+      ]
+    },
+    {
+      "id_evidencia": 24,
+      "descripcion": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones - Procesos químicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 45, "2024-3": 44, "2025-3": 48 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 55, "2024-3": 51, "2025-3": 57 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 53, "2024-3": 48, "2025-3": 55 } }
+      ]
+    },
+    {
+      "id_evidencia": 25,
+      "descripcion": "Comprender que a partir de la investigación científica se construyen explicaciones sobre el mundo natural. - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": null, "2024-3": 64, "2025-3": 60 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": null, "2024-3": 59, "2025-3": 60 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": null, "2024-3": 56, "2025-3": 57 } }
+      ]
+    },
+    {
+      "id_evidencia": 26,
+      "descripcion": "Explicar cómo ocurren algunos fenómenos de la naturaleza basado en observaciones, en patrones y en conceptos propios del conocimiento científico. - Procesos físicos",
+      "porcentaje_respuestas_incorrectas": [
+        { "nivel_agregacion": "Establecimiento educativo (EE)", "aplicaciones": { "2023-4": 45, "2024-3": 39, "2025-3": 42 } },
+        { "nivel_agregacion": "Colombia", "aplicaciones": { "2023-4": 53, "2024-3": 50, "2025-3": 44 } },
+        { "nivel_agregacion": "ETC", "aplicaciones": { "2023-4": 51, "2024-3": 46, "2025-3": 44 } }
+      ]
+    }
+  ]
+}

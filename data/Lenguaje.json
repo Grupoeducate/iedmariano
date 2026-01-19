@@ -1,0 +1,123 @@
+{
+  "informacion_reporte": {
+    "institucion": "IED Hogar Mariano -BQA",
+    "area": "Lectura Crítica",
+    "seccion": "3. Resultados en la prueba de Lectura crítica"
+  },
+  "resultados_generales": {
+    "promedio_y_desviacion": {
+      "titulo": "3.1 Promedio y desviación estándar en Lectura crítica",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "metricas": {
+            "promedio": { "2023-4": 60, "2024-3": 58, "2025-3": 58 },
+            "desviacion": { "2023-4": 8, "2024-3": 7, "2025-3": 8 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "metricas": {
+            "promedio": { "2023-4": 54, "2024-3": 54, "2025-3": 55 },
+            "desviacion": { "2023-4": 10, "2024-3": 10, "2025-3": 10 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "metricas": {
+            "promedio": { "2023-4": 55, "2024-3": 56, "2025-3": 56 },
+            "desviacion": { "2023-4": 10, "2024-3": 10, "2025-3": 11 }
+          }
+        }
+      ]
+    },
+    "niveles_desempeno": {
+      "titulo": "3.2 Porcentaje de estudiantes por niveles de desempeño en Lectura crítica",
+      "datos": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "niveles": {
+            "nivel_1": { "2023-4": 0, "2024-3": 1, "2025-3": 0 },
+            "nivel_2": { "2023-4": 9, "2024-3": 14, "2025-3": 19 },
+            "nivel_3": { "2023-4": 69, "2024-3": 67, "2025-3": 66 },
+            "nivel_4": { "2023-4": 22, "2024-3": 18, "2025-3": 16 }
+          }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "niveles": {
+            "nivel_1": { "2023-4": 4, "2024-3": 4, "2025-3": 3 },
+            "nivel_2": { "2023-4": 35, "2024-3": 31, "2025-3": 32 },
+            "nivel_3": { "2023-4": 48, "2024-3": 50, "2025-3": 49 },
+            "nivel_4": { "2023-4": 13, "2024-3": 15, "2025-3": 17 }
+          }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "niveles": {
+            "nivel_1": { "2023-4": 2, "2024-3": 3, "2025-3": 3 },
+            "nivel_2": { "2023-4": 30, "2024-3": 26, "2025-3": 28 },
+            "nivel_3": { "2023-4": 50, "2024-3": 52, "2025-3": 49 },
+            "nivel_4": { "2023-4": 18, "2024-3": 19, "2025-3": 20 }
+          }
+        }
+      ]
+    }
+  },
+  "evidencias_aprendizaje": [
+    {
+      "id_evidencia": 1,
+      "descripcion": "Identifica y entiende los contenidos locales que conforman un texto.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 28, "2024-3": 30, "2025-3": 28 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 37, "2024-3": 35, "2025-3": 33 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 35, "2024-3": 32, "2025-3": 31 }
+        }
+      ]
+    },
+    {
+      "id_evidencia": 2,
+      "descripcion": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 36, "2024-3": 38, "2025-3": 40 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 48, "2024-3": 44, "2025-3": 44 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 44, "2024-3": 41, "2025-3": 42 }
+        }
+      ]
+    },
+    {
+      "id_evidencia": 3,
+      "descripcion": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 41, "2024-3": 39, "2025-3": 47 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 50, "2024-3": 45, "2025-3": 51 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 47, "2024-3": 42, "2025-3": 49 }
+        }
+      ]
+    }
+  ]
+}
