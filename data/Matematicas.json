@@ -56,3 +56,68 @@
           "nivel_agregacion": "ETC",
           "niveles": {
             "nivel_1": { "2023-4": 8, "2024-3": 8, "2025-3": 9 },
+            "nivel_2": { "2023-4": 32, "2024-3": 32, "2025-3": 29 },
+            "nivel_3": { "2023-4": 51, "2024-3": 51, "2025-3": 50 },
+            "nivel_4": { "2023-4": 8, "2024-3": 9, "2025-3": 11 }
+          }
+        }
+      ]
+    }
+  },
+  "evidencias_aprendizaje": [
+    {
+      "id_evidencia": 1,
+      "descripcion": "Valida procedimientos y estrategias matemáticas utilizadas para dar solución a problemas.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 57, "2024-3": 53, "2025-3": 59 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 60, "2024-3": 55, "2025-3": 57 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 58, "2024-3": 54, "2025-3": 55 }
+        }
+      ]
+    },
+    {
+      "id_evidencia": 2,
+      "descripcion": "Frente a un problema que involucre información cuantitativa, plantea e implementa estrategias que lleven a soluciones adecuadas.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 48, "2024-3": 49, "2025-3": 48 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 57, "2024-3": 51, "2025-3": 47 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 54, "2024-3": 49, "2025-3": 45 }
+        }
+      ]
+    },
+    {
+      "id_evidencia": 3,
+      "descripcion": "Comprende y transforma la información cuantitativa y esquemática presentada en distintos formatos.",
+      "porcentaje_respuestas_correctas": [
+        {
+          "nivel_agregacion": "Establecimiento educativo (EE)",
+          "aplicaciones": { "2023-4": 29, "2024-3": 39, "2025-3": 32 }
+        },
+        {
+          "nivel_agregacion": "Colombia",
+          "aplicaciones": { "2023-4": 39, "2024-3": 41, "2025-3": 36 }
+        },
+        {
+          "nivel_agregacion": "ETC",
+          "aplicaciones": { "2023-4": 37, "2024-3": 41, "2025-3": 34 }
+        }
+      ]
+    }
+  ]
+}
