@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablero de Resultados Saber 11 - IED Hogar Mariano</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <div class="brand">
+            <h1>GRUPO EDUCATE COLOMBIA</h1>
+            <h4>Resultados IED Hogar Mariano | Dirección de Pedagogía</h4>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="#contacto">Soporte</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="area-header">
+            <h2>Resultados Consolidados Saber 11 (2023-2025)</h2>
+            <p>Bienvenido al sistema de análisis de datos para la toma de decisiones pedagógicas. Seleccione un área para ver el detalle de evidencias, niveles de desempeño y planes de mejoramiento.</p>
+        </div>
+
+        <!-- Gráfico Global -->
+        <div class="chart-container" style="height: 400px;">
+            <canvas id="globalChart"></canvas>
+        </div>
+
+        <h3>Seleccione un Área del Saber:</h3>
+        <div class="dashboard-grid">
+            <div class="card">
+                <h3>Lectura Crítica</h3>
+                <p>Análisis de competencias comunicativas y niveles de lectura.</p>
+                <a href="lenguaje.html" class="btn-ver">Ver Resultados</a>
+            </div>
+            <div class="card">
+                <h3>Matemáticas</h3>
+                <p>Razonamiento cuantitativo y resolución de problemas.</p>
+                <a href="matematicas.html" class="btn-ver">Ver Resultados</a>
+            </div>
+            <div class="card">
+                <h3>Ciencias Sociales</h3>
+                <p>Competencias ciudadanas y pensamiento social.</p>
+                <a href="sociales.html" class="btn-ver">Ver Resultados</a>
+            </div>
+            <div class="card">
+                <h3>Ciencias Naturales</h3>
+                <p>Indagación, explicación de fenómenos y uso del conocimiento.</p>
+                <a href="naturales.html" class="btn-ver">Ver Resultados</a>
+            </div>
+            <div class="card">
+                <h3>Inglés</h3>
+                <p>Desempeño según el Marco Común Europeo (A-, A1, A2, B1, B+).</p>
+                <a href="ingles.html" class="btn-ver">Ver Resultados</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 GRUPO EDUCATE COLOMBIA. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+    <script>
+        // Inicializar Dashboard Global
+        document.addEventListener('DOMContentLoaded', () => {
+            loadGlobalData();
+        });
+    </script>
+</body>
+</html>
