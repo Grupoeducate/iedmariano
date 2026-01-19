@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ciencias Naturales - Resultados Saber 11</title>
+    <title>Matemáticas - Resultados Saber 11</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -26,26 +26,20 @@
             <p>Análisis detallado por evidencias y comparación con ETC y Colombia.</p>
         </div>
 
-        <!-- Sección 1: Gráfico de Niveles de Desempeño (Evolución) -->
         <div class="chart-container">
             <h3>Evolución Niveles de Desempeño (2023-2025)</h3>
             <canvas id="levelsChart"></canvas>
         </div>
 
-        <!-- Sección 2: Diagnóstico por Evidencias -->
-        <div class="chart-container" style="height: 800px;"> <!-- Más alto para que quepan las barras -->
+        <div class="chart-container" style="height: 800px;">
             <h3>Semáforo de Evidencias (Comparativo 2025)</h3>
-            <p><small>Las barras representan el comportamiento del estudiante frente a la competencia.</small></p>
+            <p><small>Las barras de color indican el desempeño del colegio.</small></p>
             <canvas id="evidenceChart"></canvas>
         </div>
 
-        <!-- Sección 3: Plan de Mejoramiento -->
         <div class="improvement-plan">
             <h3>🚀 Plan de Mejoramiento 2026: Acciones Docentes</h3>
-            <p>Estrategias sugeridas para impactar los aprendizajes con mayor debilidad:</p>
-            <div id="strategiesContainer">
-                <!-- Se llena dinámicamente con JS -->
-            </div>
+            <div id="strategiesContainer"></div>
         </div>
     </div>
 
@@ -55,10 +49,9 @@
 
     <script src="js/app.js"></script>
     <script>
-        // Cargar datos específicos de Naturales
-        // Cambia 'Naturales.json' por el archivo correspondiente en cada HTML
+        // Cargar datos de MATEMÁTICAS
         document.addEventListener('DOMContentLoaded', () => {
-            loadAreaData('data/Naturales.json'); 
+            loadAreaData('data/Matematicas.json'); 
         });
     </script>
 </body>
